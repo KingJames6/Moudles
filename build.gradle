@@ -85,7 +85,12 @@ buildscript {
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.1.2'
-        classpath 'com.luojilab.ddcomponent:build-gradle:1.2.0'
+        classpath deps.jimu.gradle_plugin
+
+        classpath deps.android.gradlePlugin
+        classpath deps.publish.jcenter
+        classpath deps.publish.maven
+        classpath deps.kotlin.kgp
     }
 }
 
