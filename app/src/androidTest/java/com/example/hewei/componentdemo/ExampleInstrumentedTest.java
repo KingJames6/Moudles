@@ -1,4 +1,4 @@
-package com.example.hewei.app;
+package com.example.hewei.componentdemo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
