@@ -5,6 +5,9 @@ import com.example.hewei.reader.serviceimpl.ReadBookServiceImpl;
 import com.luojilab.component.componentlib.applicationlike.IApplicationLike;
 import com.luojilab.component.componentlib.router.Router;
 
+/**
+ * 管理组件的生命周期
+ */
 public class ReaderAppLike implements IApplicationLike {
     Router router = Router.getInstance();
 
