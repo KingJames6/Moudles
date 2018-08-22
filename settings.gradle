@@ -1,1 +1,1 @@
-include ':app', ':readcomponent', ':componentservice', ':photocomponent', ':basicres', ':basiclib'
+include ':app', ':readcomponent', ':componentservice', ':sharecomponent', ':basicres', ':basiclib'
