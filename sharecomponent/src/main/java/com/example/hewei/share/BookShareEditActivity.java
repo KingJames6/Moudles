@@ -26,6 +26,8 @@ public class BookShareEditActivity extends BaseActivity {
     @Autowired
     Author author;
 
+
+
     private TextView tvShareTitle;
     private TextView tvShareBook;
     private TextView tvAuthor;
