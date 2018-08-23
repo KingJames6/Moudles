@@ -1,0 +1,18 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.hewei.share">
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/share_app_name"
+        android:supportsRtl="true"
+        tools:replace="android:label">
+
+        <activity android:name=".BookShareEditActivity">
+
+        </activity>
+
+
+    </application>
+
+</manifest>

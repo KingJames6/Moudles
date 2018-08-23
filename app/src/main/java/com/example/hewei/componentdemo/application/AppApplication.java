@@ -1,4 +1,11 @@
 package com.example.hewei.componentdemo.application;
 
-public class AppApplication {
+import com.example.hewei.basicres.BaseApplication;
+
+public class AppApplication extends BaseApplication{
+
+    @Override
+    public void onCreate() {
+        super.onCreate();
+    }
 }
